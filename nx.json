@@ -28,6 +28,9 @@
     "sandbox-e2e": {
       "tags": [],
       "implicitDependencies": ["sandbox"]
+    },
+    "material": {
+      "tags": []
     }
   }
 }
